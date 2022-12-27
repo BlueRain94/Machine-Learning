@@ -1,0 +1,4 @@
+https://github.com/tensorflow/models/
+
+https://pyimagesearch.com/2018/04/16/keras-and-convolutional-neural-networks-cnns/
+Convolutional Neural Network (CNN) là một trong những mô hình Deep Learning tiên tiến. Nó giúp cho chúng ta xây dựng được những hệ thống thông minh với độ chính xác cao như hiện nay.

@@ -1,0 +1,11 @@
+https://www.edenai.co/post/top-10-explicit-content-detection-apis
+
+Python
+https://github.com/topics/nudity-detection?l=python
+https://pypi.org/project/nsfw-detector/
+
+Model
+https://github.com/GantMan/nsfw_model
+
+.NET
+https://github.com/d00ML0rDz/NsfwSpy

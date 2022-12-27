@@ -1,0 +1,5 @@
+https://towardsdatascience.com/face-detection-models-which-to-use-and-why-d263e82c302c
+
+pip3 install opencv-python
+pip3 install dlib
+pip3 install mtcnn

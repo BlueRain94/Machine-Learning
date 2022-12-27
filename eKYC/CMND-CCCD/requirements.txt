@@ -1,0 +1,9 @@
+pillow
+tensorflow
+matplotlib
+PyYAML
+opencv-python
+numpy
+vietocr
+torch
+torchvision

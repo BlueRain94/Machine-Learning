@@ -1,0 +1,10 @@
+
+https://github.com/topics/ekyc
+https://github.com/DoubangoTelecom/FaceLivenessDetection-SDK
+
+https://github.com/buiquangmanhhp1999/extract-information-from-identity-card
+
+
+https://github.com/mesutpiskin/id-card-detector
+Copy this https://github.com/datitran/object_detector_app/blob/master/object_detection/protos/string_int_label_map_pb2.py 
+to /usr/local/lib/python3.10/dist-packages/object_detection/protos/

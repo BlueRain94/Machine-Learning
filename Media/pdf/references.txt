@@ -1,0 +1,6 @@
+https://pdfminer-docs.readthedocs.io/programming.html#basic-usage
+
+https://gist.github.com/akash-ch2812/d42acf86e4d6562819cf4cd37d1195e7
+
+pdf2txt.py -o math_exam.xml -t xml .\math_exam.pdf
+pdf2txt.py -o math_exam.html -t html .\math_exam.pdf

@@ -1,0 +1,7 @@
+https://geekyhumans.com/emotion-detection-using-python-and-deepface/
+
+pip3 install deepface
+
+
+FER
+pip install FER

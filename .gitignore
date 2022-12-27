@@ -1,0 +1,15 @@
+**/images/**
+Media/example/*
+Media/libs/*
+**/__pycache__/**
+
+*.jpg
+*.png
+*.jpeg
+*.mp4
+save_at_*.h5
+*.pth
+*.pyc
+
+MachineLearning/FaceDetection/real-and-fake-face-detection/mobilenet_v2_weights_tf_dim_ordering_tf_kernels_1.0_96_no_top.h5
+MachineLearning/FaceDetection/real-and-fake-face-detection/vgg16_weights_tf_dim_ordering_tf_kernels_notop.h5

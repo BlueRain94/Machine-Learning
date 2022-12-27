@@ -1,0 +1,3 @@
+https://pyimagesearch.com/2018/05/07/multi-label-classification-with-keras/
+
+https://pyimagesearch.com/2018/04/16/keras-and-convolutional-neural-networks-cnns/

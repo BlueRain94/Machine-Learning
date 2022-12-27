@@ -1,0 +1,19 @@
+https://viblo.asia/p/trich-xuat-thong-tin-bang-bieu-cuc-don-gian-voi-opencv-1Je5E7M1ZnL
+
+https://luongtuananh-10220.medium.com/h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-c%C3%A0i-%C4%91%E1%BA%B7t-v%C3%A0-s%E1%BB%AD-d%E1%BB%A5ng-c%C3%A1c-m%C3%B4-h%C3%ACnh-ocr-cho-ti%E1%BA%BFng-vi%E1%BB%87t-54c0ab69df0
+
+https://github.com/eragonruan/text-detection-ctpn
+
+https://basilchackomathew.medium.com/best-ocr-tools-in-python-4f16a9b6b116
+
+VietOCR
+https://pbcquoc.github.io/vietocr/
+
+tesseract
+apt-get install tesseract-ocr
+pip install pytesseract
+
+wget -O /usr/share/tesseract-ocr/4.00/tessdata/Vietnamese.traineddata https://github.com/tesseract-ocr/tessdata/raw/main/script/Vietnamese.traineddata
+
+Keras
+pip install keras-ocr
